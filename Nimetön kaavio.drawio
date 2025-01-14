@@ -122,8 +122,8 @@
         <mxCell id="1c1d494c118603dd-11" value="summa" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="10" y="290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1c1d494c118603dd-14" value="Näyttää 10 viimeistä tilitapahtumaa" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-3" vertex="1">
-          <mxGeometry x="30" y="430" width="105" height="50" as="geometry" />
+        <mxCell id="1c1d494c118603dd-14" value="Näyttää näytöllä 5 viimeistä tilitapahtumaa. Selattavissa." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-3" vertex="1">
+          <mxGeometry x="30" y="430" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5cxWj7lu7yWEpYEgH8YU-20" value="Näytöllä tapahtuman tiedot ja saldo" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="15" y="200" width="115" height="50" as="geometry" />
